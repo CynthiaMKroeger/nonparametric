@@ -1,0 +1,109 @@
+---
+title: "Conference Materials 2018"
+author: "Cynthia M Kroeger"
+date: "11/8/2018"
+output: github_document
+---
+## Project Description 
+
+This project studied the prevalence and impact of the error of using classic nonparametric tests in the presence of heteroscedasticity within nutrition obesity research. Details of which will be presented at the Obesity Week conference in November, 2018. This repository contains the data and code used to substantiate the presentation. The full presentation, which includes methodological details, will be added to this repository following the conference's embargo lift date on November 13, 2018. This was the start of a larger project, that has since been further developed. A manuscript with fully-developed methods is now being developed for publication. 
+
+
+## Conference Description 
+
+This work will be presented at The Obesity Society (TOS): Obesity Week Annual Scientific Meeting, in Nashville, Tennessee, USA, in 2018. 
+
+
+## Contact Information for Principal Investigator and Corresponding Author
+
+Cynthia M. Kroeger, PhD, Postdoctoral Fellow, Charles Perkins Centre, School of Pharmacy, Faculty of Medicine and Health, The University of Sydney. cynthia.kroeger@sydney.edu.au 
+
+
+## Description of Supporting Materials 
+
+### Presentation
+
+This work will be presented as a poster. The poster will be added to this repository following the conference's embargo lift date on November 13, 2018.
+
+
+### Data
+
+__File name for dataset:__ conference_materials_2018_data.csv
+
+
+__Full names and definitions of column headings__
+
+Column Heading      | Definition                            | Possible Values 
+------------------- | ------------------------------------- | ----------------------
+authors             | authors of included study             | 
+doi                 | doi of included study                 | 
+link                | link to full text of included study   | 
+type                | type of study design                  | intervention; observational
+model               | type of model organism                | rodents; humans
+test                | type of nonparametric test used       | kruskal = Kruskal-Wallis; whitney = Mann-Whitney U; signed = Signed rank; nonparametric = "non-parametric test"
+methods             | appropriateness of nonparametric test use | error = clear use of nonparametric test in presence of heteroscedasticity; nolink = no link between use of heteroscedasticity term and rationale for nonparametric test use; ambiguous = states assumptions were tested but does not clearly state heteroscedasticity was not present; correct = clearly stated heteroscedasticity was not present when a the nonparametric test was used
+significance        | statistical significance of results from nonparametric test | significant = result was statistically significant; mixed = some statistically significant, some statistically insignificant; not = not statistically significant
+reads               | number of article Mendeley reads        |
+posts               | number of article posts in the internet |
+score               | Altmetric score                         |
+public              | number of posts made by the public      |
+scientists          | number of posts made by scientists      |
+communicators       | number of posts made by science communicators |
+physicians          | number of posts made by physicians      | 
+citations           | number of citations in peer-reviewed journals |
+date_published      | date article was published              | 
+date_extracted      | date citation and altmetric data was extracted |
+date_difference     | date_extracted - date_published         | 
+
+
+Data were collected by Bridget A. Hannon, Dr. Tanya M. Halliday, and Dr. Kroeger and formatted by Dr. Kroeger. 
+
+
+### Code
+
+__File name for search and extraction code:__ conference_materials_2018_code_search_extraction.R
+
+This file contains the code used to conduct the literature search and extract Almetric and citation data 
+
+
+__File name for visual development code:__ conference_materials_2018_code_visuals.R
+
+This file contains the code used to generate the figures used in the presentation 
+
+
+## A Note on How to Replicate this Study 
+
+Because data were extracted from PubMed on a specific date, one would need to download PubMed history and assess the literature from the point in time noted in the data file, using the methods described in this document. Another option might be to run the search described herein and subtract dates from the date reported in our data file. 
+
+
+## Author Contribution 
+
+Dr. Kroeger conducted the study, originated the idea of implementing Open Science R packages to semi-automated methods, wrote the code, made the figures and poster, and created the open science documents for the repository. Bridget A. Hannon and Dr. Tanya M Halliday assisted with the design and conduct of the research and provided editorial assistance with the presentation materials. Dr. David B. Allison originated the study and is the senior author of the presentation.
+
+
+## License Information 
+
+These materials are licensed under the Creative Commons Attribution Share Alike 4.0.
+
+__File name for analysis code:__ LICENSE.txt
+
+
+## Citation Information
+
+### Recommended citation for Conference Materials 2018
+
+Please use the following to cite any of the supporting materials herein: 
+
+Kroeger CM. Data and analysis code for published abstract: Misuse of nonparametric tests with heteroscedasticity: A semi-automated review of obesity research. Zenodo. 2018. DOI: 
+
+
+### Recommended citation for published 2018 abstract 
+
+Please use the following to cite the published abstract: 
+
+Kroeger CM, Hannon BA, Halliday TM, Teran-Garcia M, Allison DB. Misuse of nonparametric tests with heteroscedasticity: A semi-automated review of obesity research. The Obesity Society (TOS): Annual Scientific Meeting. Nashville, Tennessee, USA, 2018.
+
+
+## Funding Information
+
+The presentation and development of these materials was supported by the National Institute of Diabetes, Digestive and Kidney Diseases of the National Institutes of Health (F32DK107157). The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health or any other organization. 

@@ -5,7 +5,7 @@
 # Import data 
 # ------------------------------------------------------------------------------ #
 library(readr)
-nonparametric_data <- read_csv("nonparametric_data.csv", 
+nonparametric_data <- read_csv("conference_materials_2018_data.csv", 
                         col_types = cols(citations = col_number(), 
                             communicators = col_number(), 
                             date_difference = col_number(), 
