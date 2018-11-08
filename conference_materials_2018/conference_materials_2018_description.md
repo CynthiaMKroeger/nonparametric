@@ -179,7 +179,7 @@ Citation Information
 
 Please use the following to cite any of the supporting materials herein:
 
-Kroeger CM. Data and analysis code for published abstract: Misuse of nonparametric tests with heteroscedasticity: A semi-automated review of obesity research. Zenodo. 2018. DOI:
+Kroeger CM. Data and analysis code for published abstract: Misuse of nonparametric tests with heteroscedasticity: A semi-automated review of obesity research. Zenodo. 2018. DOI: 10.5281/zenodo.14800042
 
 ### Recommended citation for published 2018 abstract
 
@@ -191,3 +191,5 @@ Funding Information
 -------------------
 
 The presentation and development of these materials was supported by the National Institute of Diabetes, Digestive and Kidney Diseases of the National Institutes of Health (F32DK107157). The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health or any other organization.
+
+[![DOI](https://zenodo.org/badge/156651162.svg)](https://zenodo.org/badge/latestdoi/156651162)
