@@ -1,12 +1,12 @@
 ---
 title: "Conference Materials 2018"
 author: "Cynthia M Kroeger"
-date: "11/8/2018"
+date: "11/29/2018"
 output: github_document
 ---
 ## Project Description 
 
-This project studied the prevalence and impact of the error of using classic nonparametric tests in the presence of heteroscedasticity within nutrition obesity research. Details of which will be presented at the Obesity Week conference in November, 2018. This repository contains the data and code used to substantiate the presentation. The full presentation, which includes methodological details, will be added to this repository following the conference's embargo lift date on November 13, 2018. This was the start of a larger project, that has since been further developed. A manuscript with fully-developed methods is now being developed for publication. 
+This project studied the prevalence and impact of the error of using classic nonparametric tests in the presence of heteroscedasticity within nutrition obesity research. Details of which were presented at the Obesity Week conference in November, 2018. This repository contains the data and code used to substantiate the presentation, as well as the presented poster. This was the start of a larger project, that has since been further developed. A manuscript with fully-developed methods is now being developed for publication. 
 
 
 ## Conference Description 
@@ -23,7 +23,7 @@ Cynthia M. Kroeger, PhD, Postdoctoral Fellow, Charles Perkins Centre, School of 
 
 ### Presentation
 
-This work will be presented as a poster. The poster will be added to this repository following the conference's embargo lift date on November 13, 2018.
+__File name for poster:__ conference_materials_2018_poster.csv
 
 
 ### Data
