@@ -1,9 +1,9 @@
 Description of nonparametric Repository Contents
 ================
 Cynthia M Kroeger
-11/8/2018
+29 November 2018
 
-This repository contains supporting materials for the conference abstract published on our work that evaluates the misuse of nonparametric tests in the presence of heteroscedasticity within nutrition obesity research. This work will be presented at Obesity Week 2018, and presentation materials will be added to this repository following the embargo lift date for the conference, on November 13, 2018. This work has since been further developed and a manuscript presenting such work is in preparation. Upon submission, materials for this paper also will be added to this repository. Each folder herein will contain supporting materials for each publication, respectively.
+This repository contains supporting materials for the conference abstract published on our work that evaluates the misuse of nonparametric tests in the presence of heteroscedasticity within nutrition obesity research. This work was presented at Obesity Week 2018. This work has since been further developed and a manuscript presenting such work is in preparation. Upon submission, materials for this paper also will be added to this repository. Each folder herein will contain supporting materials for each publication, respectively.
 
 Description of Folders:
 -----------------------
@@ -19,8 +19,7 @@ The types of supporting materials in each folder include:
 -   .csv file of the data collected
 -   .R file with the search strategy, semi-automated data extraction, and figure generation code
 -   .txt file with licensing information
-
-A .pdf file of the associated presentation (e.g., poster) will be added following the embargo lift date for the conference, on November 13, 2018
+-   .pdf file of poster presentation 
 
 Recommendations for Citation of Supporting Materials
 ----------------------------------------------------
