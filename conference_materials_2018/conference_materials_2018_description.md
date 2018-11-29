@@ -1,17 +1,17 @@
 Conference Materials 2018
 ================
 Cynthia M Kroeger
-11/8/2018
+11/29/2018
 
 Project Description
 -------------------
 
-This project studied the prevalence and impact of the error of using classic nonparametric tests in the presence of heteroscedasticity within nutrition obesity research. Details of which will be presented at the Obesity Week conference in November, 2018. This repository contains the data and code used to substantiate the presentation. The full presentation, which includes methodological details, will be added to this repository following the conference's embargo lift date on November 13, 2018. This was the start of a larger project, that has since been further developed. A manuscript with fully-developed methods is now being developed for publication.
+This project studied the prevalence and impact of the error of using classic nonparametric tests in the presence of heteroscedasticity within nutrition obesity research. Details of which were presented at the Obesity Week conference in November, 2018. This repository contains the data and code used to substantiate the presentation, as well as the presented poster. This was the start of a larger project, that has since been further developed. A manuscript with fully-developed methods is now being developed for publication. 
 
 Conference Description
 ----------------------
 
-This work will be presented at The Obesity Society (TOS): Obesity Week Annual Scientific Meeting, in Nashville, Tennessee, USA, in 2018.
+This work was presented at The Obesity Society (TOS): Obesity Week Annual Scientific Meeting, in Nashville, Tennessee, USA, in 2018.
 
 Contact Information for Principal Investigator and Corresponding Author
 -----------------------------------------------------------------------
@@ -23,7 +23,7 @@ Description of Supporting Materials
 
 ### Presentation
 
-This work will be presented as a poster. The poster will be added to this repository following the conference's embargo lift date on November 13, 2018.
+**File name for poster:** conference\_materials\_2018\_poster.csv
 
 ### Data
 
