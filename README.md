@@ -1,7 +1,7 @@
 Description of nonparametric Repository Contents
 ================
 Cynthia M Kroeger
-29 November 2018
+11/29/2018
 
 This repository contains supporting materials for the conference abstract published on our work that evaluates the misuse of nonparametric tests in the presence of heteroscedasticity within nutrition obesity research. This work was presented at Obesity Week 2018. This work has since been further developed and a manuscript presenting such work is in preparation. Upon submission, materials for this paper also will be added to this repository. Each folder herein will contain supporting materials for each publication, respectively.
 
