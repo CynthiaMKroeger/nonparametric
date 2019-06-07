@@ -24,7 +24,7 @@ The types of supporting materials in each folder include:
 Recommendations for Citation of Supporting Materials
 ----------------------------------------------------
 
--   **Recommended citation for manuscript\_materials\_2019**: Kroeger CM and Ejima K. Data and analysis code for manuscript: Persistent confusion in nutrition and obesity research about the validity of classic nonparametric tests in the presence of heteroscedasticity: Evidence of the problem and valid alternatives.
+-   **Recommended citation for manuscript\_materials\_2019**: Kroeger CM and Ejima K. Data and analysis code for manuscript: Persistent confusion in nutrition and obesity research about the validity of classic nonparametric tests in the presence of heteroscedasticity: Evidence of the problem and valid alternatives. Zenodo. 2018. DOI: 10.5281/zenodo.3240923
 -   **Recommended citation for conference\_materials\_2018**: Kroeger CM. Data and analysis code for published abstract: Misuse of nonparametric tests with heteroscedasticity: A semi-automated review of obesity research. Zenodo. 2018. DOI: 10.5281/zenodo.1480042
 
 [![DOI](https://zenodo.org/badge/156651162.svg)](https://zenodo.org/badge/latestdoi/156651162)
