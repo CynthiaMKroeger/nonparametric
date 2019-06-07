@@ -3,7 +3,7 @@ Description of nonparametric Repository Contents
 Cynthia M Kroeger
 6/7/2019
 
-This repository contains supporting materials for the manuscript that describes our work evaluating the misuse of nonparametric tests in the presence of heteroscedasticity within nutrition and obesity research. This work futher developed and explanded upon research that was presented at Obesity Week 2018 (DOI: 10.5281/zenodo.14800042).
+This repository contains supporting materials for the manuscript that describes our work evaluating the misuse of nonparametric tests in the presence of heteroscedasticity within nutrition and obesity research. This work futher developed and expanded upon research that was presented at Obesity Week 2018 (DOI: 10.5281/zenodo.14800042).
 
 Description of Folders:
 -----------------------
