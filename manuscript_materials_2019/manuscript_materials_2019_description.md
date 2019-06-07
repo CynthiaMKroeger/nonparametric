@@ -228,7 +228,7 @@ Citation Information
 
 Please use the following to cite any of the supporting materials herein:
 
-Kroeger CM and Ejima K. Data and analysis code for manuscript: Persistent confusion in nutrition and obesity research about the validity of classic nonparametric tests in the presence of heteroscedasticity: Evidence of the problem and valid alternatives.
+Kroeger CM and Ejima K. Data and analysis code for manuscript: Persistent confusion in nutrition and obesity research about the validity of classic nonparametric tests in the presence of heteroscedasticity: Evidence of the problem and valid alternatives. Zenodo. 2018. DOI: 10.5281/zenodo.3240923
 
 Funding Information
 -------------------
