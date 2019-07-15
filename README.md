@@ -3,7 +3,7 @@ Description of nonparametric Repository Contents
 Cynthia M Kroeger
 6/7/2019
 
-This repository contains supporting materials for the manuscript that describes our work evaluating the misuse of nonparametric tests in the presence of heteroscedasticity within nutrition and obesity research. This work futher developed and expanded upon research that was presented at Obesity Week 2018 (DOI: 10.5281/zenodo.14800042).
+This repository contains supporting materials for the manuscript that describes our work evaluating the misuse of nonparametric tests in the presence of heteroscedasticity within nutrition and obesity research. This work further developed and expanded upon research that was presented at Obesity Week 2018 (DOI: 10.5281/zenodo.14800042).
 
 Description of Folders:
 -----------------------
@@ -24,7 +24,7 @@ The types of supporting materials in each folder include:
 Recommendations for Citation of Supporting Materials
 ----------------------------------------------------
 
--   **Recommended citation for manuscript\_materials\_2019**: Kroeger CM and Ejima K. Data and analysis code for manuscript: Persistent confusion in nutrition and obesity research about the validity of classic nonparametric tests in the presence of heteroscedasticity: Evidence of the problem and valid alternatives. Zenodo. 2019. DOI: 10.5281/zenodo.3240923
+-   **Recommended citation for manuscript\_materials\_2019**: Kroeger CM and Ejima K. Data and analysis code for manuscript: Persistent confusion in nutrition and obesity research about the validity of classic nonparametric tests in the presence of heteroscedasticity: Evidence of the problem and valid alternatives. Zenodo. 2019. DOI: 10.5281/zenodo.3334933
 -   **Recommended citation for conference\_materials\_2018**: Kroeger CM. Data and analysis code for published abstract: Misuse of nonparametric tests with heteroscedasticity: A semi-automated review of obesity research. Zenodo. 2018. DOI: 10.5281/zenodo.1480042
 
 [![DOI](https://zenodo.org/badge/156651162.svg)](https://zenodo.org/badge/latestdoi/156651162)
