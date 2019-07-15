@@ -8,10 +8,12 @@ Project Description
 
 This project studied the prevalence and impact of the error of using classic nonparametric tests in the presence of heteroscedasticity within nutrition obesity research. Details of which have been submitted for peer-reviewed publication. This repository contains the data and code used to substantiate the manuscript. The full manuscript, which includes methodological details, will be added to this repository following the journal's embargo lift. A developing version of this project was presented previously at The Obesity Society (TOS) Obesity Week Annual Scientific Meeting in 2018 (DOI: 10.5281/zenodo.14800042).
 
-Contact Information for Principal Investigator and Corresponding Author
------------------------------------------------------------------------
+Contact Information for Repository Authors
+------------------------------------------
 
-Cynthia M. Kroeger, PhD, Postdoctoral Fellow, Charles Perkins Centre, School of Pharmacy, Faculty of Medicine and Health, The University of Sydney. <cynthia.kroeger@sydney.edu.au>
+Cynthia M. Kroeger, PhD, Postdoctoral Fellow, Charles Perkins Centre, School of Pharmacy, Faculty of Medicine and Health, The University of Sydney. <cynthia.kroeger@sydney.edu.au> (Principal Investigator and Corresponding Author)
+
+Keisuke Ejima, PhD, Postdoctoral Fellow, Department of Epidemiology and Biostatistics, Indiana University School of Public Health-Bloomington. <kejima@iu.edu>
 
 Description of Supporting Materials
 -----------------------------------
@@ -194,7 +196,7 @@ Author: Dr. Keisuke Ejima
 
 **File name for simulation code (2):** manuscript\_materials\_2019\_code\_simulation\_2
 
-This file contains the code used to generate the simulation varying the maximum standard error, k from 1 to 9, fixing the number of group, g as 5
+This file contains the code used to generate the simulation varying the maximum standard error, k from 1 to 9, fixing the number of group, g as 5, fixing the sample size (40:40)
 
 Author: Dr. Keisuke Ejima
 
