@@ -101,6 +101,12 @@ This file contains the code used to compute type I error rates for each signific
 Author: Dr. Keisuke Ejima 
 
 
+### Supplementary Table 
+
+
+__File name for table:__ manuscript_materials_2019_table
+
+
 ## A Note on How to Replicate this Study 
 
 Because data for the review were extracted from PubMed on a specific date, one would need to download PubMed history and assess the literature from the point in time noted in the data file, using the methods described in this document. Another option might be to run the search described herein and subtract dates from the date reported in our data file. Visuals and simulation code are replicable as is.  
