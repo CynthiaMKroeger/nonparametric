@@ -206,6 +206,13 @@ This file contains the code used to compute type I error rates for each signific
 
 Author: Dr. Keisuke Ejima
 
+
+### Supplementary Table 
+
+
+**File name for table:** manuscript\_materials\_2019\_table
+
+
 A Note on How to Replicate this Study
 -------------------------------------
 
