@@ -109,7 +109,7 @@ __File name for table:__ manuscript_materials_2019_table
 
 ## A Note on How to Replicate this Study 
 
-Because data for the review were extracted from PubMed on a specific date, one would need to download PubMed history and assess the literature from the point in time noted in the data file, using the methods described in this document. Another option might be to run the search described herein and subtract dates from the date reported in our data file. Visuals and simulation code are replicable as is.  
+Because data for the review were extracted from PubMed on a specific date, one would need to download PubMed history and assess the literature from the point in time noted in the data file, using the methods described in this document. Another option might be to run the search described herein and subtract dates from the date reported in our data file. Visuals and simulation code are replicable as is. Figures 7 and 8 in our paper can be replicated by running the R codes in the following order: 1. manuscript_materials_2019_code_simulation_1, 2. manuscript_materials_2019_code_simulation_2, 3. manuscript_materials_2019_code_simulation_error, 4. manuscript_materials_2019_code_review_visuals.R.
 
 
 ## Author Contribution 
