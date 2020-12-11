@@ -347,7 +347,11 @@ library(ggplot2)
 library(ggpubr)
 theme_set(theme_pubr())
 library(gridExtra)
-png(filename = "dissemination_cohorts.png", res = 300, width = 14, height = 7, units = 'in')
+png(filename = "dissemination_cohorts.png", 
+    res = 300, 
+    width = 14, 
+    height = 7, 
+    units = 'in')
 dissemination_plot <- ggballoonplot(dissemination_matrix,
                                     main = "A.", 
                                     fill = "black")
@@ -357,3 +361,64 @@ cohorts_plot <- ggballoonplot(cohorts_matrix,
 grid.arrange(dissemination_plot, cohorts_plot, ncol = 2)
 dev.off()
 
+
+# ------------------------------------------------------------------------------ #
+# Obtain counts by group from dissemination data   
+# ------------------------------------------------------------------------------ #
+# Obtain counts by group for each dissemination outcome 
+
+
+# citations 
+tapply(nonparametric_data$citations, 
+       nonparametric_data$methods, 
+       FUN = sum, 
+       na.rm = TRUE)
+
+
+# posts
+tapply(nonparametric_data$posts, 
+       nonparametric_data$methods, 
+       FUN = sum, 
+       na.rm = TRUE)
+
+
+# reads 
+tapply(nonparametric_data$reads, 
+       nonparametric_data$methods, 
+       FUN = sum, 
+       na.rm = TRUE)
+
+
+# score
+tapply(nonparametric_data$reads, 
+       nonparametric_data$methods, 
+       FUN = sum, 
+       na.rm = TRUE)
+
+
+# public
+tapply(nonparametric_data$public, 
+       nonparametric_data$methods, 
+       FUN = sum, 
+       na.rm = TRUE)
+
+
+# scientists 
+tapply(nonparametric_data$scientists, 
+       nonparametric_data$methods, 
+       FUN = sum, 
+       na.rm = TRUE)
+
+
+# communicators 
+tapply(nonparametric_data$communicators, 
+       nonparametric_data$methods, 
+       FUN = sum, 
+       na.rm = TRUE)
+
+
+# doctors 
+tapply(nonparametric_data$doctors, 
+       nonparametric_data$methods, 
+       FUN = sum, 
+       na.rm = TRUE)
