@@ -422,3 +422,40 @@ tapply(nonparametric_data$doctors,
        nonparametric_data$methods, 
        FUN = sum, 
        na.rm = TRUE)
+
+
+# ------------------------------------------------------------------------------ #
+# Obtain counts for results section of the manuscript 
+# ------------------------------------------------------------------------------ #
+
+
+# Total citations 
+sum(nonparametric_data$citations)
+
+
+# Average number of days since publication 
+mean(nonparametric_data$date_difference)
+
+
+# Counts of study type  
+table(nonparametric_data$type)
+
+
+# Counts of model type  
+table(nonparametric_data$model)
+
+
+# Counts of methods 
+table(nonparametric_data$methods)
+
+
+# Total reads
+sum(nonparametric_data$reads, na.rm = TRUE)
+
+
+# Total posts
+sum(nonparametric_data$posts, na.rm = TRUE)
+
+
+# Total Altmetric score 
+sum(nonparametric_data$score, na.rm = TRUE)
