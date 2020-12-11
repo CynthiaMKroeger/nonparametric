@@ -1,6 +1,6 @@
 ---
 title: "Manuscript Materials 2020"
-author: "Cynthia M Kroeger and Andrew W Brown"
+author: "Cynthia M Kroeger"
 date: "09/12/2020"
 output: html_document
 ---
@@ -15,8 +15,6 @@ Note: *means I need to edit this at some point before the final version*
 ## Contact Information for Repository Authors 
 
 Cynthia M. Kroeger, PhD, Postdoctoral Fellow, Charles Perkins Centre, Central Clinical School, Faculty of Medicine and Health, The University of Sydney. cynthia.kroeger@sydney.edu.au (Principal Investigator and Corresponding Author)
-
-Andrew W Brown, PhD, Assistant Professor, Department of Applied Health Science, Indiana University School of Public Health-Bloomington. awb1@iu.edu
 
 
 ## Description of Supporting Materials 
@@ -44,7 +42,7 @@ score               | Altmetric score                         |
 public              | number of posts made by the public      |
 scientists          | number of posts made by scientists      |
 communicators       | number of posts made by science communicators |
-physicians          | number of posts made by physicians      | 
+physicians          | number of posts made by doctors         | 
 citations           | number of citations in peer-reviewed journals |
 date_published      | date article was published              | 
 date_extracted      | date citation and altmetric data was extracted |
@@ -104,7 +102,7 @@ __File name for analysis code:__ LICENSE.txt
 
 Please use the following to cite any of the supporting materials herein: 
 
-Kroeger CM and Brown AW. Data and analysis code for manuscript: Persistent confusion in nutrition and obesity research about the validity of classic nonparametric tests in the presence of heteroscedasticity: Evidence of the problem and valid alternatives. Zenodo. 2019. DOI: 10.5281/zenodo.3625431 
+Kroeger CM. Data and analysis code for manuscript: Persistent confusion in nutrition and obesity research about the validity of classic nonparametric tests in the presence of heteroscedasticity: Evidence of the problem and valid alternatives. Zenodo. 2019. DOI: 10.5281/zenodo.3625431 
 
 
 ## Funding Information
