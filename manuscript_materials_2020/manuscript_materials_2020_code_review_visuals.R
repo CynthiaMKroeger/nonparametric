@@ -5,7 +5,7 @@
 # Import data 
 # ------------------------------------------------------------------------------ #
 library(readr)
-nonparametric_data <- read_csv("manuscript_materials_2019_data_review.csv", 
+nonparametric_data <- read_csv("manuscript_materials_2020_data_review.csv", 
                         col_types = cols(citations = col_number(), 
                             communicators = col_number(), 
                             date_difference = col_number(), 
@@ -16,7 +16,7 @@ nonparametric_data <- read_csv("manuscript_materials_2019_data_review.csv",
                                                             "error")), 
                             model = col_factor(levels = c("humans",
                                                           "rodents")), 
-                            physicians = col_number(), 
+                            doctors = col_number(), 
                             posts = col_number(), 
                             public = col_number(), 
                             reads = col_number(), 
@@ -118,19 +118,6 @@ nonparametric_data$code <- factor(nonparametric_data$code,
                                              "yes"), 
                                   labels = c("No", 
                                              "Yes"))
-
-
-# ------------------------------------------------------------------------------ #
-# Calculate updated date difference 
-# ------------------------------------------------------------------------------ #
-# excel is acting a fool, so I need to calculate the date difference in R 
-# format columns to indicate date 
-# update date extracted to December 9, 2020
-
-
-# ------------------------------------------------------------------------------ #
-# Write updated data file to manually add Altmetric updates 
-# ------------------------------------------------------------------------------ #
 
 
 # ------------------------------------------------------------------------------ #
@@ -337,10 +324,10 @@ cohorts_matrix <- matrix(c(sum(error_data$public, na.rm = TRUE),
                            sum(nolink_data$communicators, na.rm = TRUE), 
                            sum(ambiguous_data$communicators, na.rm = TRUE), 
                            sum(correct_data$communicators, na.rm = TRUE),
-                           sum(error_data$physicians, na.rm = TRUE), 
-                           sum(nolink_data$physicians, na.rm = TRUE), 
-                           sum(ambiguous_data$physicians, na.rm = TRUE), 
-                           sum(correct_data$physicians, na.rm = TRUE),
+                           sum(error_data$doctors, na.rm = TRUE), 
+                           sum(nolink_data$doctors, na.rm = TRUE), 
+                           sum(ambiguous_data$doctors, na.rm = TRUE), 
+                           sum(correct_data$doctors, na.rm = TRUE),
                            sum(error_data$scientists, na.rm = TRUE), 
                            sum(nolink_data$scientists, na.rm = TRUE), 
                            sum(ambiguous_data$scientists, na.rm = TRUE), 
@@ -348,7 +335,7 @@ cohorts_matrix <- matrix(c(sum(error_data$public, na.rm = TRUE),
                          byrow = TRUE, 4, 4)
 rownames(cohorts_matrix) <- c("General Public", 
                               "Science Communicators", 
-                              "Physicians/Clinicians", 
+                              "Doctors", 
                               "Research Scientists")
 colnames(cohorts_matrix) <- c("Error", 
                               "No Link", 
