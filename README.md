@@ -1,13 +1,20 @@
 Description of nonparametric Repository Contents
 ================
 Cynthia M Kroeger
-6/7/2019
+December 11, 2020
 
 This repository contains supporting materials for the manuscript that
 describes our work evaluating the misuse of nonparametric tests in the
 presence of heteroscedasticity within nutrition and obesity research.
 This work further developed and expanded upon research that was
-presented at Obesity Week 2018 (DOI: 10.5281/zenodo.14800042).
+presented at Obesity Week 2018 (DOI: 10.5281/zenodo.14800042). The first
+paper published on this work (DOI: *ADD DOI*) contains simulations to
+describe why misusing nonparametric tests with heteroscedasticity is a
+problem and suggests valid alternatives. The aim of the second
+manuscript is to show our data on evidence of the problem within
+nutrition and obesity research. We originally wanted to publish all of
+this data together in one paper, however anonymous peer reviewers
+disagreed.
 
 ## Description of Folders:
 
@@ -54,5 +61,3 @@ The types of supporting materials in each folder include:
     of obesity research. Zenodo. 2018. DOI: 10.5281/zenodo.1480042
 
 [![DOI](https://zenodo.org/badge/156651162.svg)](https://zenodo.org/badge/latestdoi/156651162)
-
-"This is a line from RStudio"

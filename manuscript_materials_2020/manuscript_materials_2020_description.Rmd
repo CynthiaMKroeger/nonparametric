@@ -21,7 +21,7 @@ Cynthia M. Kroeger, PhD, Postdoctoral Fellow, Charles Perkins Centre, Central Cl
 
 ### Data
 
-__File name for dataset:__ manuscript_materials_2020_data_review.csv
+__File name for data set:__ manuscript_materials_2020_data_review.csv
 
 
 __Full names and definitions of column headings__
