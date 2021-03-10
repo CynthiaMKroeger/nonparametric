@@ -8,18 +8,20 @@ describes our work evaluating the misuse of nonparametric tests in the
 presence of heteroscedasticity within nutrition and obesity research.
 This work further developed and expanded upon research that was
 presented at Obesity Week 2018 (DOI: 10.5281/zenodo.14800042). The first
-paper published on this work (DOI: *ADD DOI*) contains simulations to
+paper published on this work (DOI: 10.1093/ajcn/nqaa357) contains simulations to
 describe why misusing nonparametric tests with heteroscedasticity is a
 problem and suggests valid alternatives. The aim of the second
 manuscript is to show our data on evidence of the problem within
 nutrition and obesity research. We originally wanted to publish all of
 this data together in one paper, however anonymous peer reviewers
-disagreed.
+disagreed and insisted we publish separate reports.
 
 ## Description of Folders:
 
   - **manuscript\_materials\_2020**: Supporting materials for submitted
-    manuscript:
+    manuscript: Kroeger CM, Hannon BA, Halliday TM, Ejima K, Teran-Garcia 
+    M, Brown AW. Evidence of Misuse of Nonparametric Tests in the Presence 
+    of Heteroscedasticity within Obesity Research. 
   - **manuscript\_materials\_2019**: Supporting materials for submitted
     manuscript: Kroeger CM, Ejima K, Hannon BA, Halliday TM, McComb B,
     Teran-Garcia M, Dawson JA, Brown AW, King DB, Allison DB. Persistent
@@ -48,7 +50,10 @@ The types of supporting materials in each folder include:
 
 ## Recommendations for Citation of Supporting Materials
 
-  - **Recommended citation for manuscript\_materials\_2020**:
+  - **Recommended citation for manuscript\_materials\_2020**: Kroeger CM.
+    Data and analysis code for manuscript: Evidence of Misuse of 
+    Nonparametric Tests in the Presence of Heteroscedasticity within Obesity 
+    Research. Zenodo. 2021. DOI: 
   - **Recommended citation for manuscript\_materials\_2019**: Kroeger CM
     and Ejima K. Data and analysis code for manuscript: Persistent
     confusion in nutrition and obesity research about the validity of
