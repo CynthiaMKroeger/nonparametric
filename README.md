@@ -21,8 +21,8 @@ focus and detail in each report.
 
   - **manuscript\_materials\_2020**: Supporting materials for submitted
     manuscript: Kroeger CM, Hannon BA, Halliday TM, Ejima K, Teran-Garcia 
-    M, Brown AW. Evidence of Misuse of Nonparametric Tests in the Presence 
-    of Heteroscedasticity within Obesity Research. 
+    M, Brown AW. Evidence of misuse of nonparametric tests in the presence 
+    of heteroscedasticity within obesity research. 
   - **manuscript\_materials\_2019**: Supporting materials for submitted
     manuscript: Kroeger CM, Ejima K, Hannon BA, Halliday TM, McComb B,
     Teran-Garcia M, Dawson JA, Brown AW, King DB, Allison DB. Persistent
