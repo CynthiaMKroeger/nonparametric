@@ -14,7 +14,8 @@ problem and suggests valid alternatives. The aim of the second
 manuscript is to show our data on evidence of the problem within
 nutrition and obesity research. We originally wanted to publish all of
 this data together in one paper, however anonymous peer reviewers
-disagreed and insisted we publish separate reports.
+disagreed and insisted we publish separate reports to allow for more
+focus and detail in each report.
 
 ## Description of Folders:
 
