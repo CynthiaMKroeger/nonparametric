@@ -7,9 +7,7 @@ output: html_document
 
 ## Project Description 
 
-This project studied the prevalence and impact of the error of using classic nonparametric tests in the presence of heteroscedasticity within nutrition obesity research. Simulations that describe why this is a problem have been published by our team (DOI:*ADD AJCN DOI*). This repository contains the data and code used to substantiate the manuscript. *The full manuscript, which includes methodological details, will be added to this repository following the journal's embargo lift.DOES F1000Research HAVE AN EMBARGO* A developing version of this project was presented previously at The Obesity Society (TOS) Obesity Week Annual Scientific Meeting in 2018 (DOI: 10.5281/zenodo.14800042).
-
-Note: *means I need to edit this at some point before the final version*
+This project studied the prevalence and impact of the error of using classic nonparametric tests in the presence of heteroscedasticity within nutrition obesity research. Simulations that describe why this is a problem have been published by our team (DOI:10.1093/ajcn/nqaa357). This repository contains the data and code used to substantiate the manuscript. The full manuscript, which includes methodological details, will be added to this repository following the journal's embargo lift. A developing version of this project was presented previously at The Obesity Society (TOS) Obesity Week Annual Scientific Meeting in 2018 (DOI: 10.5281/zenodo.14800042).
 
 
 ## Contact Information for Repository Authors 
@@ -82,9 +80,7 @@ Because data for the review were extracted from PubMed on a specific date, one w
 
 ## Author Contribution 
 
-*REVISIT once authorship is finalized*
-
-Dr. Cynthia M. Kroeger lead the survey, originated the idea of implementing Open Science R packages to semi-automate methods, wrote the review code, created the open science documents for the repository, and managed the integration and edits of the manuscript. Dr. Keisuke Ejima lead the simulation portion of this study and wrote the simulation code. Ms. Bridget A. Hannon and Dr. Tanya M Halliday assisted with the design and conduct of the review and provided editorial assistance with the review materials and manuscript. Mr. Bryan McComb contributed to drafting and editing the manuscript. Dr. Margarita Teran-Garcia contributed to the search strategy and methods for the review and provided editorial assistance with the manuscript. Dr. John A. Dawson checked the code for replicability, helped develop methods for the simulation study and provided editorial assistance with the manuscript. Dr. Andrew W. Brown drafted sections of the manuscript and provided editoral assistance. Dr. David B. King helped develop the simulation portion of the study, drafted the tutorial section of the manuscript, and provided editorial assistance. Dr. David B. Allison originated the study and is the senior author of the manuscript.
+Dr. Cynthia M. Kroeger lead the survey, originated the idea of implementing Open Science R packages to semi-automate methods, wrote the review code, created the open science documents for the repository, and drafted the manuscript. Dr. Keisuke Ejima assisted with figure generation code and provided editorial assistance with the manuscript. Ms. Bridget A. Hannon and Dr. Tanya M Halliday assisted with the design and conduct of the review and provided editorial assistance with the review materials and manuscript. Dr. Margarita Teran-Garcia contributed to the search strategy and methods for the review and provided editorial assistance with the manuscript. Dr. Andrew W. Brown drafted sections of the manuscript and provided editoral assistance. 
 
 
 ## License Information 
@@ -97,8 +93,6 @@ __File name for analysis code:__ LICENSE.txt
 ## Citation Information
 
 ### Recommended citation for Manuscript Materials 2020
-
-*REVISIT once title is finalized*
 
 Please use the following to cite any of the supporting materials herein: 
 
