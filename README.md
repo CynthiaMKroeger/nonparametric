@@ -54,7 +54,7 @@ The types of supporting materials in each folder include:
   - **Recommended citation for manuscript\_materials\_2020**: Kroeger CM.
     Data and analysis code for manuscript: Evidence of misuse of 
     nonparametric tests in the presence of heteroscedasticity within obesity 
-    research. Zenodo. 2021. DOI: 10.5281/zenodo.4671196
+    research. Zenodo. 2021. DOI: 10.5281/zenodo.4733330
   - **Recommended citation for manuscript\_materials\_2019**: Kroeger CM
     and Ejima K. Data and analysis code for manuscript: Persistent
     confusion in nutrition and obesity research about the validity of
