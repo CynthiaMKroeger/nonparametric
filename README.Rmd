@@ -10,7 +10,7 @@ This repository contains supporting materials for the manuscript that describes 
 
 ## Description of Folders:
 
-* __manuscript_materials_2020__: Supporting materials for submitted manuscript: 
+* __manuscript_materials_2020__: Supporting materials for submitted manuscript: Kroeger CM, Hannon BA, Halliday TM, Ejima K, Teran-Garcia M, Brown AW. Evidence of misuse of nonparametric tests in the presence of heteroscedasticity within obesity research.
 * __manuscript_materials_2019__: Supporting materials for submitted manuscript: Kroeger CM, Ejima K, Hannon BA, Halliday TM, McComb B, Teran-Garcia M, Dawson JA, Brown AW, King DB, Allison DB. Persistent confusion in nutrition and obesity research about the validity of classic nonparametric tests in the presence of heteroscedasticity: Evidence of the problem and valid alternatives. 
 * __conference_materials_2018__: Supporting materials for published conference abstract: Kroeger CM, Hannon BA, Halliday TM, Teran-Garcia M, Allison DB. Misuse of nonparametric tests with heteroscedasticity: A semi-automated review of obesity research. The Obesity Society (TOS): Annual Scientific Meeting. Nashville, Tennessee, USA, 2018.
 
