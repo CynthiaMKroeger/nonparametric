@@ -7,7 +7,7 @@ output: html_document
 
 ## Project Description 
 
-This project studied the prevalence and impact of the error of using classic nonparametric tests in the presence of heteroscedasticity within nutrition obesity research. Simulations that describe why this is a problem have been published by our team (DOI:10.1093/ajcn/nqaa357). This repository contains the data and code used to substantiate the manuscript. The full manuscript, which includes methodological details, will be added to this repository following the journal's embargo lift. A developing version of this project was presented previously at The Obesity Society (TOS) Obesity Week Annual Scientific Meeting in 2018 (DOI: 10.5281/zenodo.14800042).
+This project studied the prevalence and impact of the error of using classic nonparametric tests in the presence of heteroscedasticity within nutrition obesity research. Simulations that describe why this is a problem have been published by our team (DOI:10.1093/ajcn/nqaa357). This repository contains the data and code used to substantiate the manuscript. A preprint of this manuscript, which includes methodological details, can be found at this DOI: 10.12688/f1000research.52693.1. A developing version of this project was presented previously at The Obesity Society (TOS) Obesity Week Annual Scientific Meeting in 2018 (DOI: 10.5281/zenodo.14800042).
 
 
 ## Contact Information for Repository Authors 
