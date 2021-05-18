@@ -5,7 +5,7 @@ December 11, 2020
 
 This repository contains supporting materials for the manuscript that
 describes our work evaluating the misuse of nonparametric tests in the
-presence of heteroscedasticity within nutrition and obesity research.
+presence of heteroscedasticity within nutrition and obesity research (DOI: 10.12688/f1000research.52693.1).
 This work further developed and expanded upon research that was
 presented at Obesity Week 2018 (DOI: 10.5281/zenodo.14800042). The first
 paper published on this work (DOI: 10.1093/ajcn/nqaa357) contains simulations to
@@ -23,7 +23,7 @@ focus and detail in each report.
     manuscript: Kroeger CM, Hannon BA, Halliday TM, Ejima K, Teran-Garcia 
     M, Brown AW. Evidence of misuse of nonparametric tests in the presence 
     of heteroscedasticity within obesity research. 
-  - **manuscript\_materials\_2019**: Supporting materials for submitted
+  - **manuscript\_materials\_2019**: Supporting materials for
     manuscript: Kroeger CM, Ejima K, Hannon BA, Halliday TM, McComb B,
     Teran-Garcia M, Dawson JA, Brown AW, King DB, Allison DB. Persistent
     confusion in nutrition and obesity research about the validity of
